@@ -142,3 +142,6 @@ More projects on the way:
 
 <!-- Animated footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
+
+<!-- profile overview -->
+
