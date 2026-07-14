@@ -19,18 +19,19 @@
 
 ## 🧑‍🚀 About Me
 
-- 🔭 Currently building **AI model evaluation & analytics platforms** — benchmarking **20+ models** and unifying results from **25+ evaluation frameworks** into consistent, comparable datasets
-- 🏗️ Background in **large-scale data engineering**: pipelines on AWS, Azure & Databricks processing **100M+ row datasets** with near real-time analytics
-- 🤖 Deep into **AI-assisted development**: spec-driven development, multi-agent coding stacks & tools that make AI outputs measurable
-- 🌱 Currently expanding: **streaming systems, lakehouse architectures & agentic workflows**
+- 🔭 **Applied AI & Data Engineer** at **Multiverse Computing** — building model evaluation & analytics platforms: benchmarking **20+ AI models** and unifying results from **25+ evaluation frameworks** into consistent, comparable datasets
+- 🏗️ Previously **Data Engineer at Deloitte** — unified pipelines across **AWS, Azure & Databricks** (PySpark, Spark SQL, Iceberg), processing **100M+ row datasets** and cutting data latency ~30%
+- 📊 I turn heterogeneous benchmark outputs into **actionable insights** with Streamlit & Power BI dashboards used by **80+ stakeholders**
+- ☁️ **AWS · Azure · Databricks** certified Data Engineer
+- 🌱 Exploring on my own: **streaming systems, lakehouse architectures & agentic workflows**
 - ⚡ Fun fact: my pipelines have processed more athlete data than my gym membership ever will
 
 ## 🏅 Certifications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS-Certified_Data_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-Data_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Certified-Data_Engineer_Associate-FF9900?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-Data_Engineer_Associate-0078D4?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Databricks-Data_Engineer_Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 
 </div>
@@ -70,34 +71,46 @@ More projects on the way:
 
 <div align="center">
 
-**Data Engineering & Streaming**
+**Languages & Data Engineering**
 
-<img src="https://skillicons.dev/icons?i=python,kafka,postgres,docker,githubactions&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,postgres&perline=8"/>
 <br/>
-<img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_Iceberg-1E90FF?style=flat-square&logo=apache&logoColor=white"/>
-<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square"/>
 
 **Cloud & Platforms**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp&perline=8"/>
+<img src="https://skillicons.dev/icons?i=aws,azure&perline=8"/>
 <br/>
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
 <img src="https://img.shields.io/badge/Palantir_Foundry-101113?style=flat-square&logo=palantir&logoColor=white"/>
 
-**Applied AI, Analytics & Web**
+**Applied AI & Analytics**
 
-<img src="https://skillicons.dev/icons?i=react,ts,fastapi&perline=8"/>
-<br/>
-<img src="https://img.shields.io/badge/AI_Model_Evaluation-8A2BE2?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Model_Evaluation-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Benchmarking-6C3483?style=flat-square"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black"/>
+
+---
+
+**🌱 Currently exploring** *(personal projects like [AthleteOS](https://github.com/DiegoAldamaCam/AthleteOS))*
+
+<img src="https://skillicons.dev/icons?i=kafka,react,ts,fastapi&perline=8"/>
+<br/>
+<img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white"/>
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/>
 
 </div>
+
+<!--
+GitHub Trophies temporarily disabled: github-profile-trophy.vercel.app is returning HTTP 402 (service out of quota) globally.
+Re-enable when the service is back up.
 
 ## 🏆 GitHub Trophies
 
@@ -106,6 +119,7 @@ More projects on the way:
 <img src="https://github-profile-trophy.vercel.app/?username=DiegoAldamaCam&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
 
 </div>
+-->
 
 ## 📊 GitHub Analytics
 
