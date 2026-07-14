@@ -1,5 +1,5 @@
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Diego%20Aldama&fontSize=70&fontColor=e94560&animation=fadeIn&fontAlignY=35&desc=Applied%20AI%20%C2%B7%20Data%20Engineer&descSize=22&descAlignY=58&descColor=eeeeee" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Diego%20Aldama&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20%C2%B7%20Data%20Engineer&descSize=20&descAlignY=60&descColor=ffffff" width="100%"/>
 
 <!-- Typing animation -->
 <div align="center">
@@ -155,7 +155,7 @@ Re-enable when the service is back up.
 </div>
 
 <!-- Animated footer banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,5,2,2,0&height=120&section=footer" width="100%"/>
 
 <!-- profile overview -->
 
